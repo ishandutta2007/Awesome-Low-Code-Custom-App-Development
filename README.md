@@ -127,7 +127,7 @@ The sector exhibits a **moderately fragmented and bifurcated market structure**:
 
 ## 🟩 Open-Source Software (Ranked by Stars)
 
-*All open-source repositories below are sorted in descending order by **GitHub Stars_Count**. Every badge links directly to that project's stargazers page.*
+*All open-source repositories below are sorted in descending order by **GitHub_Stars_Count**. Every badge links directly to that project's stargazers page.*
 
 ---
 
@@ -296,7 +296,7 @@ Contributions are warmly welcome! If you know of an outstanding open-source Low-
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-tool`).
-3. 📝 Add your tool with a short description, tech stack, license, and relevant GitHub Stars_Badge.
+3. 📝 Add your tool with a short description, tech stack, license, and relevant GitHub_Stars_Badge.
 4. 🚀 Open a well-documented **Pull Request**.
 
 > Please ensure any suggested project has active maintenance (commits within the last 12 months) and aligns with the low-code custom application development domain.
