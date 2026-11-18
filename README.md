@@ -127,123 +127,123 @@ The sector exhibits a **moderately fragmented and bifurcated market structure**:
 
 ## 🟩 Open-Source Software (Ranked by Stars)
 
-*All open-source repositories below are sorted in descending order by **GitHub Star Count**. Every badge links directly to that project's stargazers page.*
+*All open-source repositories below are sorted in descending order by **GitHub Stars_Count**. Every badge links directly to that project's stargazers page.*
 
 ---
 
-### 1. [Supabase](https://github.com/supabase/supabase) [![GitHub stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)
+### 1. [Supabase](https://github.com/supabase/supabase) [![GitHub_Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)
 * **Tech Stack:** TypeScript / Elixir / Go / PostgreSQL | **License:** Apache-2.0
 * **Overview:** Known as the open-source Firebase alternative, Supabase provides an instant low-code backend suite for building custom web and mobile applications. It automatically generates RESTful and GraphQL APIs from your PostgreSQL schema, with built-in authentication, row-level security (RLS), real-time WebSockets, vector embeddings, and an interactive database Studio UI.
 * **Best For:** Developers wanting a production-ready PostgreSQL backend with auto-generated APIs, authentication, and visual database management.
 
 ---
 
-### 2. [Strapi](https://github.com/strapi/strapi) [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)
+### 2. [Strapi](https://github.com/strapi/strapi) [![GitHub_Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)
 * **Tech Stack:** JavaScript / TypeScript / Node.js / React | **License:** MIT
 * **Overview:** Strapi is the leading open-source headless CMS and custom API builder. It offers a visual content modeling studio, customizable admin dashboard, role-based access control, and instant REST and GraphQL APIs. Highly extensible through custom plugins and middlewares.
 * **Best For:** Teams building content-heavy applications, multi-channel customer portals, and flexible content-driven internal tools.
 
 ---
 
-### 3. [NocoDB](https://github.com/nocodb/nocodb) [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+### 3. [NocoDB](https://github.com/nocodb/nocodb) [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
 * **Tech Stack:** Vue.js / Node.js / TypeScript | **License:** AGPL-3.0
 * **Overview:** NocoDB transforms any existing relational database (PostgreSQL, MySQL, SQLite, SQL Server) into an interactive smart spreadsheet and collaborative app builder. It offers Grid, Gallery, Kanban, and Form views, automated webhooks, team collaboration features, and REST APIs.
 * **Best For:** Teams seeking an open-source Airtable alternative that connects directly to their existing production SQL databases without schema lock-in.
 
 ---
 
-### 4. [PocketBase](https://github.com/pocketbase/pocketbase) [![GitHub stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)
+### 4. [PocketBase](https://github.com/pocketbase/pocketbase) [![GitHub_Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)
 * **Tech Stack:** Go / SQLite / Svelte | **License:** MIT
 * **Overview:** PocketBase is an all-in-one open-source backend contained in a single lightweight Go executable. It features embedded SQLite with real-time subscriptions, client-side authentication, file storage, and an elegant admin dashboard for managing collections and security rules.
 * **Best For:** Solo developers and small teams looking to deploy custom web and mobile apps on minimal VPS infrastructure with zero DevOps overhead.
 
 ---
 
-### 5. [Appsmith](https://github.com/appsmithorg/appsmith) [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
+### 5. [Appsmith](https://github.com/appsmithorg/appsmith) [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)
 * **Tech Stack:** Java / React / TypeScript / MongoDB | **License:** Apache-2.0
 * **Overview:** Appsmith is an open-source framework for building internal tools, admin panels, and operational dashboards. It provides 45+ customizable drag-and-drop UI widgets, pre-built connectors to databases and REST/GraphQL APIs, and native JavaScript binding across the entire UI canvas. Its permissive Apache-2.0 license allows white-labeling and embedding into custom products.
 * **Best For:** Teams prioritizing a permissive open-source license, high release cadence, and embedded internal applications.
 
 ---
 
-### 6. [ToolJet](https://github.com/ToolJet/ToolJet) [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)
+### 6. [ToolJet](https://github.com/ToolJet/ToolJet) [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)
 * **Tech Stack:** Node.js / React / TypeScript / PostgreSQL | **License:** AGPL-3.0
 * **Overview:** ToolJet is a feature-rich low-code framework for building and deploying internal business tools. It features a canvas with 45+ pre-built UI components, 50+ native database and cloud connectors, multi-user real-time collaboration, role-based access control (RBAC), and built-in AI workflow agents.
 * **Best For:** Organizations seeking a comprehensive, self-hosted Retool alternative with granular permission controls and active community plugins.
 
 ---
 
-### 7. [Directus](https://github.com/directus/directus) [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
+### 7. [Directus](https://github.com/directus/directus) [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
 * **Tech Stack:** TypeScript / Node.js / Vue.js | **License:** BSL 1.1 / Apache-2.0
 * **Overview:** Directus is a data engine that layers dynamic REST/GraphQL APIs and an intuitive no-code data management studio on top of any SQL database. It does not alter your existing schema or force proprietary migrations, providing instant CRUD management, granular RBAC, and workflow automation.
 * **Best For:** Complex enterprise database backends requiring real-time APIs, customizable admin panels, and non-destructive schema access.
 
 ---
 
-### 8. [Refine](https://github.com/refinedev/refine) [![GitHub stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)
+### 8. [Refine](https://github.com/refinedev/refine) [![GitHub_Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)
 * **Tech Stack:** TypeScript / React / Next.js / Ant Design / Material UI | **License:** MIT
 * **Overview:** Refine is an open-source, code-first meta-framework for developing enterprise internal tools, admin panels, B2B portals, and dashboards. Rather than locking developers into a visual canvas, it decouples the business logic, state management, routing, and data providers from the UI components.
 * **Best For:** Software engineers who want full programmatic control, code reviews, and enterprise UI component libraries without low-code ceiling limitations.
 
 ---
 
-### 9. [Budibase](https://github.com/Budibase/budibase) [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
+### 9. [Budibase](https://github.com/Budibase/budibase) [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)
 * **Tech Stack:** Node.js / Svelte / CouchDB | **License:** GPL-3.0 (Community) / Proprietary
 * **Overview:** Budibase is an all-in-one low-code platform for building, designing, and automating business apps and forms. It includes its own built-in internal table database, connectors to external SQL/NoSQL backends, a visual screen designer with responsive components, and automated multi-step cron workflows.
 * **Best For:** Teams wanting an accessible self-hosted builder with an integrated database and straightforward visual workflow automations.
 
 ---
 
-### 10. [NocoBase](https://github.com/nocobase/nocobase) [![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)
+### 10. [NocoBase](https://github.com/nocobase/nocobase) [![GitHub_Stars](https://img.shields.io/github/stars/nocobase/nocobase?style=social&color=white)](https://github.com/nocobase/nocobase/stargazers)
 * **Tech Stack:** TypeScript / Node.js / React / PostgreSQL | **License:** AGPL-3.0
 * **Overview:** NocoBase is a private-first, highly extensible open-source no-code development platform. Its architecture completely decouples data models from user interfaces, allowing users to build complex domain-driven ERP, CRM, and management systems using micro-kernel plugins and configurable blocks.
 * **Best For:** Enterprises and dev agencies building complex internal systems with intricate relational data models and custom plugin requirements.
 
 ---
 
-### 11. [Windmill](https://github.com/windmill-labs/windmill) [![GitHub stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)
+### 11. [Windmill](https://github.com/windmill-labs/windmill) [![GitHub_Stars](https://img.shields.io/github/stars/windmill-labs/windmill?style=social&color=white)](https://github.com/windmill-labs/windmill/stargazers)
 * **Tech Stack:** Rust / Go / TypeScript / PostgreSQL | **License:** AGPL-3.0
 * **Overview:** Windmill is a developer platform that turns scripts (written in Python, TypeScript, Go, or Bash) into production webhooks, background workflows, and auto-generated user interfaces. Benchmarked as up to 13x faster than Airflow, it combines code-first script execution with a drag-and-drop UI canvas.
 * **Best For:** Technical engineering and DevOps teams wanting to convert existing script libraries into shared internal tools and distributed workflows.
 
 ---
 
-### 12. [Amplication](https://github.com/amplication/amplication) [![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=social&color=white)](https://github.com/amplication/amplication/stargazers)
+### 12. [Amplication](https://github.com/amplication/amplication) [![GitHub_Stars](https://img.shields.io/github/stars/amplication/amplication?style=social&color=white)](https://github.com/amplication/amplication/stargazers)
 * **Tech Stack:** TypeScript / Node.js / NestJS / Prisma | **License:** Apache-2.0
 * **Overview:** Amplication is an open-source development tool that automatically generates production-ready backend services and REST/GraphQL APIs based on TypeScript and NestJS. It provisions data models, Prisma ORM integrations, authentication, and role permissions, pushing human-readable code directly to your GitHub repository.
 * **Best For:** Backend developers building modern microservices and custom application architectures who want to eliminate CRUD boilerplate.
 
 ---
 
-### 13. [ILLA Cloud](https://github.com/illacloud/illa-builder) [![GitHub stars](https://img.shields.io/github/stars/illacloud/illa-builder?style=social&color=white)](https://github.com/illacloud/illa-builder/stargazers)
+### 13. [ILLA Cloud](https://github.com/illacloud/illa-builder) [![GitHub_Stars](https://img.shields.io/github/stars/illacloud/illa-builder?style=social&color=white)](https://github.com/illacloud/illa-builder/stargazers)
 * **Tech Stack:** Go / TypeScript / React | **License:** Apache-2.0
 * **Overview:** ILLA Cloud is an open-source low-code platform for creating internal tools and integrating generative AI agents into business operations. It provides a visual canvas with dozens of pre-designed widgets, real-time multi-developer collaboration, and native connectors to LLMs (OpenAI, Hugging Face) and databases.
 * **Best For:** Teams looking to rapidly build internal interfaces with native AI integration and collaborative real-time editing.
 
 ---
 
-### 14. [Baserow](https://github.com/baserow/baserow) [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
+### 14. [Baserow](https://github.com/baserow/baserow) [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)
 * **Tech Stack:** Python / Django / Vue.js / PostgreSQL | **License:** MIT (Community)
 * **Overview:** Baserow is an open-source no-code database and application builder. It combines an Airtable-like relational table interface with a dedicated Application Builder that lets non-technical users build public and private customer portals, interactive directories, and forms without code.
 * **Best For:** Organizations seeking a self-hostable, MIT-licensed Airtable alternative with an integrated frontend application designer.
 
 ---
 
-### 15. [Openblocks](https://github.com/openblocks-dev/openblocks) [![GitHub stars](https://img.shields.io/github/stars/openblocks-dev/openblocks?style=social&color=white)](https://github.com/openblocks-dev/openblocks/stargazers)
+### 15. [Openblocks](https://github.com/openblocks-dev/openblocks) [![GitHub_Stars](https://img.shields.io/github/stars/openblocks-dev/openblocks?style=social&color=white)](https://github.com/openblocks-dev/openblocks/stargazers)
 * **Tech Stack:** TypeScript / React / Node.js | **License:** AGPL-3.0
 * **Overview:** Openblocks is an open-source low-code internal tool platform that combines visual page composition with JavaScript programmability. It includes an extensive component library, query builders for databases and REST APIs, and granular user permission control.
 * **Best For:** Engineering teams looking for a lightweight, modular self-hosted alternative to Retool and ToolJet.
 
 ---
 
-### 16. [Saltcorn](https://github.com/saltcorn/saltcorn) [![GitHub stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers)
+### 16. [Saltcorn](https://github.com/saltcorn/saltcorn) [![GitHub_Stars](https://img.shields.io/github/stars/saltcorn/saltcorn?style=social&color=white)](https://github.com/saltcorn/saltcorn/stargazers)
 * **Tech Stack:** Node.js / PostgreSQL / SQLite | **License:** MIT
 * **Overview:** Saltcorn is an extensible open-source no-code application builder engineered for simplicity and minimal server resource usage. Capable of running smoothly on a low-end 2 GB VPS, it features point-and-click relational database design, customizable views, and an ecosystem of community plugins.
 * **Best For:** Small businesses, indie hackers, and non-profits needing a lightweight, self-hosted web app builder with an unencumbered MIT license.
 
 ---
 
-### 17. [Lowcoder](https://github.com/lowcoder-org/lowcoder) [![GitHub stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)
+### 17. [Lowcoder](https://github.com/lowcoder-org/lowcoder) [![GitHub_Stars](https://img.shields.io/github/stars/lowcoder-org/lowcoder?style=social&color=white)](https://github.com/lowcoder-org/lowcoder/stargazers)
 * **Tech Stack:** TypeScript / React / Java / Node.js | **License:** AGPL-3.0
 * **Overview:** Lowcoder is an open-source low-code platform focused on building internal applications, admin panels, and customer-facing workflows. It provides a visual canvas, reusable custom components, JavaScript query evaluations, and role-based workspace permissions.
 * **Best For:** Teams wanting a self-hosted Retool alternative with custom UI module support and simple Docker container deployment.
@@ -296,7 +296,7 @@ Contributions are warmly welcome! If you know of an outstanding open-source Low-
 
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a new feature branch (`git checkout -b feature/add-new-tool`).
-3. 📝 Add your tool with a short description, tech stack, license, and relevant GitHub star badge.
+3. 📝 Add your tool with a short description, tech stack, license, and relevant GitHub Stars_Badge.
 4. 🚀 Open a well-documented **Pull Request**.
 
 > Please ensure any suggested project has active maintenance (commits within the last 12 months) and aligns with the low-code custom application development domain.
